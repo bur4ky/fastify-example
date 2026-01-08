@@ -26,7 +26,7 @@ A simple example for a REST API using Fastify, TypeScript, Zod, and Swagger.
 ## 📦 Setup
 
 ```sh
-git clone https://github.com/BurakYs/fastify-example.git
+git clone https://github.com/bur4ky/fastify-example.git
 cd fastify-example
 bun install
 cp .env.example .env
